@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kdssmurari
+- 👋 Hi, I’m @kdssmurari, My name is too long so you can shortly call me Murari.
 - 👀 I’m interested in programming Mathematical tools using Python and MATLAB
 - 🌱 I’m currently learning Machine Learning algorithms and other Cure fitting tools for mathamtical modeling.
 - 💞️ I’m looking to collaborate on anyone interested in developing and recreating codes for various data fitting tools.
